@@ -13,6 +13,7 @@ Preprocessing ensures the data is clean, consistent, and ready for training, imp
 
 2. Classification Algorithm Implementation
 Five classification algorithms were implemented, each with a brief description and explanation of suitability:
+
 (i)Logistic Regression:
 A probabilistic linear model effective for binary classification.
 Suitable for datasets where features are linearly separable.
